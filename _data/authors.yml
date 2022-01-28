@@ -5,6 +5,6 @@ Name Name:
   uri         : "http://adkinsty.github.io"
   email       : "adkinsty@icloud.com"
   bio         : "Doctoral Research Fellow, University of Michigan"
-  avatar      : /images/headshot.jpg
+  avatar      : "headshot.jpg"
   twitter     : "adkinsty_"
   # google_plus : "Name"
