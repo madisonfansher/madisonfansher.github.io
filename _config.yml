@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tyler Adkins"
 title_separator          : "-"
 name                     : &name "Tyler Adkins"
-description              : &description "Tyler Adkins' website"
+description              : &description "Tyler's website"
 url                      : https://adkinsty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adkinsty/adkinsty.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/adkinsty/"
   orcid            : "https://orcid.org/0000-0003-1472-167X"
   pinterest        :
   soundcloud       :
