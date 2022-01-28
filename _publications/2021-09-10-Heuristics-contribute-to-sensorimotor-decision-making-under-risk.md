@@ -2,7 +2,7 @@
 title: "Heuristics contribute to sensorimotor decision-making under risk"
 collection: publications
 permalink: /publication/2021-09-10-Heuristics-contribute-to-sensorimotor-decision-making-under-risk
-excerpt: 'We find that when people make plan their movements under risk, they rely on simple heuristics rather than optimal decision-making strategies.'
+excerpt: 'We find that when people plan movements under risk, they rely on simple heuristics rather than optimal decision-making strategies.'
 date: 2021-09-10
 venue: 'Psychonomic Bulletin & Review'
 paperurl: 'https://doi.org/10.3758/s13423-021-01986-x'
