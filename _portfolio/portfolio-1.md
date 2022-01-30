@@ -1,6 +1,6 @@
 ---
-title: "Long-term Cognitive Effects of COVID"
-excerpt: "<br/><img src='/images/headshot.jpg'This is my short description>"
+title: "Scientific Reasoning Education"
+excerpt: "In one line of work I aim to create interactive educational materials to teach adolescents, college students, and other groups of adults about everyday scientific reasoning principles as understanding concepts such as the difference between correlation and causation, random assignment, control of variables, sample bias, effect size, and news biases are essential skills to have in order to to properly evaluate science. <br/><img src='/images/scires.png'>"
 collection: portfolio
 ---
 
