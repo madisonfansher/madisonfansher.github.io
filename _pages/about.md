@@ -15,4 +15,4 @@ In my research I aim to apply an interdisciplinary approach to studying basic an
 
 I have six years of experience designing and implementing human-subject experiments, with special focus on survey methodolodies. Statistically, I use both frequentisist and Bayesian mathematical models to analyze small and large datasets.
 
-I am actively seeking a position in UX research so that I may apply my academic expertise to finding solutions for real-world problems.
+I am actively seeking a research position in industry so that I may apply my academic expertise in survey methodologies, experimental design, and quantitative and qualitative data analysis to finding solutions for real-world problems.
