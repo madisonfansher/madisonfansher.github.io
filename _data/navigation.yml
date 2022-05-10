@@ -4,14 +4,14 @@ main:
  #  - title: "Portfolio"
   #   url: /portfolio/
   
+     - title: "Research"
+     url: /research/    
+  
    - title: "CV"
      url: /files/cv.pdf
      
-   - title: "Resume"
-     url: /files/fansher_resume.pdf
-     
-#   - title: "Talks"
-#     url: /talks/    
+   - title: "Publications"
+     url: /publications/
 
 #   - title: "Teaching"
 #     url: /teaching/   
